@@ -14,7 +14,7 @@ The categories for the workflows in this repository are as follows: <br/>
 Disclaimer: Most machine learning workflows will include data augmentation as part of their project. However, KNIME has some issues with augmenting image data, therefore I have chosen to skip this step in all my workflows. Augmentation is still a very important part of machine learning and it would bode well to understand its importance, but for the very purpose of the following workflows it has not been used. The training still works fine as all the datasets are still quite large regardless.<br/>
 
 
-### Dataset Links
+###### Dataset Links
 Sign language (gesture recognition):  https://drive.google.com/file/d/1EAcId2AJefByuUvDAL_6Ee5QdWo-ABSd/view  <br/>
 Skin cancer classification: https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign  <br/>
 Malaria classification: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria <br/>
@@ -24,7 +24,7 @@ Drug Review Dataset: https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2
 ECG Classification: http://www.timeseriesclassification.com/description.php?Dataset=ECG5000   <br/>
 Daily weather forecast (India): https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data  <br/>
 
-### Workflow Links
+###### Workflow Links
 CNN Meta node for skin cancer Workflow: https://tinyurl.com/2p97rckw  <br/>
 Skin Cancer (Transfer Learning) Workflow: https://tinyurl.com/72br59ss  <br/>
 Malaria Binary Image Classification Workflow: https://tinyurl.com/3zcva9y8  <br/>
@@ -45,7 +45,7 @@ I also have a google drive folder link with all the workflows I’ve worked on, 
 Google Drive Folder Link: https://drive.google.com/drive/folders/1qUwNDe8rpB9AYclQbCvrkLpzVYO3PiHO?usp=sharing
 
 
-### Acknowledgements
+###### Acknowledgements
 Thank you to Anson, who has helped me a lot in the beginning of my deep learning journey and provided me with Python examples. <br/>
 Thank you to Warren (Nien Loong Loo, Ph.D.) for helping me in fixing my workflows and answering all my deep learning/machine learning questions. <br/>
 Thank you to Dr Chua Wen Shyan who has given me the opportunity for this internship.<br/>

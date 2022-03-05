@@ -45,7 +45,7 @@ I also have a google drive folder link with all the workflows I’ve worked on, 
 Google Drive Folder Link: https://drive.google.com/drive/folders/1qUwNDe8rpB9AYclQbCvrkLpzVYO3PiHO?usp=sharing
 
 
-###### Acknowledgements
+### Acknowledgements
 Thank you to Anson, who has helped me a lot in the beginning of my deep learning journey and provided me with Python examples. <br/>
 Thank you to Warren (Nien Loong Loo, Ph.D.) for helping me in fixing my workflows and answering all my deep learning/machine learning questions. <br/>
 Thank you to Dr Chua Wen Shyan who has given me the opportunity for this internship.<br/>

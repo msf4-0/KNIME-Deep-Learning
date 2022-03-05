@@ -8,7 +8,7 @@ ECG Classification: http://www.timeseriesclassification.com/description.php?Data
 ECG Classification Workflow: https://tinyurl.com/2854dwxp <br/>
 
 # Binary & Multilabel ECG Time Series Classification - Deep Learning 
-![image](https://user-images.githubusercontent.com/94952931/156868200-0afc260b-d3d4-433d-b895-a94898caace5.png)
+![image](https://user-images.githubusercontent.com/94952931/156868395-36f0ead3-3ae8-4090-b04f-df1fcf60eadf.png)
 
 CSV Data Snippet <br/>
 
